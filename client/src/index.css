@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html,
+  body {
+    @apply bg-white text-gray-800;
+  }
+
+  .dark html,
+  .dark body {
+    @apply bg-dark-900 text-gray-100;
+  }
+
+  /* When dark mode class is on the root html element, set explicit colors
+     using hex values to avoid @apply issues for custom color names. */
+  html.dark {
+    background-color: #111827; /* dark.900 */
+    color: #f3f4f6; /* gray-100 */
+  }
+
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: "Inter", sans-serif;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+}
