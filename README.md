@@ -544,6 +544,36 @@ test: Menambah test
 
 ---
 
+## 📺 Tampilan
+
+### Halaman Login
+
+<img width="1915" height="923" alt="Screenshot 2025-11-25 213017" src="https://github.com/user-attachments/assets/8655a61f-f3df-43f0-8f7d-63dfb4c53083" />
+
+### Halaman Home 
+<img width="1917" height="919" alt="Screenshot 2025-11-25 222107" src="https://github.com/user-attachments/assets/b2e58895-8146-4548-8c17-2af3ec70e89b" />
+
+### Halaman Jadwal
+<img width="1912" height="925" alt="Screenshot 2025-11-25 222145" src="https://github.com/user-attachments/assets/7b975264-ad39-43a9-b9ae-d965aae9c68c" />
+
+### Halaman Tugas
+<img width="1912" height="927" alt="Screenshot 2025-11-25 223154" src="https://github.com/user-attachments/assets/8f72f6cf-c3ad-4313-8788-49d3b65fbdfd" />
+
+### Halaman Kegiatan
+
+<img width="1919" height="926" alt="Screenshot 2025-11-25 223250" src="https://github.com/user-attachments/assets/bff9fb6c-56b0-4b7e-95b3-723d3c7d6ff5" />
+
+### Halaman Forum
+
+<img width="1902" height="921" alt="Screenshot 2025-11-25 235945" src="https://github.com/user-attachments/assets/6f1af582-2ab8-4b70-bf5c-8a83019ea194" />
+
+### Halaman Informasi Eksternal
+
+<img width="1903" height="912" alt="Screenshot 2025-11-26 000156" src="https://github.com/user-attachments/assets/bfa590be-8430-477f-aaae-98134c90fd84" />
+
+
+---
+
 ## 📄 Lisensi
 
 Project ini dilisensikan di bawah **MIT License**.  
@@ -555,15 +585,15 @@ Lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
 
 Punya pertanyaan atau saran?
 
-- 📧 **Email**: support@angkatanhub.com
+- 📧 **Email**: hasro71@gmail.com
 - 💬 **GitHub Issues**: [Report Issues](../../issues)
-- 📱 **Social Media**: [@AngkatanHub](https://twitter.com/angkatanhub)
+- 📱 **Social Media**: [@AngkatanHub](https://instagram.com/zenhsn._)
 
 ---
 
 ## 👥 Tim Developer
 
-Project ini dibuat dengan ❤️ oleh tim AngkatanHub
+Project ini dibuat dengan ❤️ oleh zein m hasan
 
 ---
 
